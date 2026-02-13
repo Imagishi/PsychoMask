@@ -1,0 +1,1121 @@
+﻿# Game English translation.
+# Pertevforge Entertainment, all rights reserved
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2026-02-12 15:11\n"
+"PO-Revision-Date: 2026-02-12 15:11\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	D7B5269642990EE7A42B6D90180C8343
+#. SourceLocation:	/Game/Enums/E_Customers.E_Customers.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/E_Customers.E_Customers.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D7B5269642990EE7A42B6D90180C8343"
+msgid "Customer1"
+msgstr "Customer1"
+
+#. Key:	25F6AB7D4C58F69E9EECD986A2195A82
+#. SourceLocation:	/Game/Enums/E_Customers.E_Customers.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/E_Customers.E_Customers.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",25F6AB7D4C58F69E9EECD986A2195A82"
+msgid "Customer2"
+msgstr "Customer2"
+
+#. Key:	24F86E0E42922C8B3AE792926BD966DB
+#. SourceLocation:	/Game/Enums/E_Customers.E_Customers.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/E_Customers.E_Customers.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",24F86E0E42922C8B3AE792926BD966DB"
+msgid "Customer3"
+msgstr "Customer3"
+
+#. Key:	8091B2694BEB01ACBC4283B1239F77D8
+#. SourceLocation:	/Game/Enums/E_Customers.E_Customers.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/E_Customers.E_Customers.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",8091B2694BEB01ACBC4283B1239F77D8"
+msgid "Customer4"
+msgstr "Customer4"
+
+#. Key:	D37A9CAC45F0D5FD472BAEB481FBD8A8
+#. SourceLocation:	/Game/Enums/E_Customers.E_Customers.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/E_Customers.E_Customers.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",D37A9CAC45F0D5FD472BAEB481FBD8A8"
+msgid "Customer5"
+msgstr "Customer5"
+
+#. Key:	CBE04B7B428A83CBC3BFBAA15DBC7B08
+#. SourceLocation:	/Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CBE04B7B428A83CBC3BFBAA15DBC7B08"
+msgid "Happiness"
+msgstr "Happiness"
+
+#. Key:	DCF7BF1C4475580CD437258880206D63
+#. SourceLocation:	/Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",DCF7BF1C4475580CD437258880206D63"
+msgid "Sadness"
+msgstr "Sadness"
+
+#. Key:	2DDCD6E44D57E97D8030D388EFB63B6C
+#. SourceLocation:	/Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",2DDCD6E44D57E97D8030D388EFB63B6C"
+msgid "Anger"
+msgstr "Anger"
+
+#. Key:	9308615644A9788DF30454B89D5F5E9D
+#. SourceLocation:	/Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9308615644A9788DF30454B89D5F5E9D"
+msgid "Fear"
+msgstr "Fear"
+
+#. Key:	6474B5D24E6D2142B890FBBEB864E243
+#. SourceLocation:	/Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/E_FinalEmotion.E_FinalEmotion.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",6474B5D24E6D2142B890FBBEB864E243"
+msgid "Confusion"
+msgstr "Confusion"
+
+#. Key:	9B4A13334126E89B69F0A3BDCB4E15F3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",9B4A13334126E89B69F0A3BDCB4E15F3"
+msgid "*ONU MİKU İLE KUTSA"
+msgstr "*BLESS THEM WITH MIKU"
+
+#. Key:	9FE376234FCC7E177F25A3BDDEF071A7
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",9FE376234FCC7E177F25A3BDDEF071A7"
+msgid "Konuşacak mısın artık?"
+msgstr "Are you going to talk now?"
+
+#. Key:	1EBEA16A47F95030F6A60290BE0A6FA2
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",1EBEA16A47F95030F6A60290BE0A6FA2"
+msgid "(Müşterin konuşmak istemiyor gibi görünüyor.)"
+msgstr "(Your customer doesn't seem to want to talk.)"
+
+#. Key:	E732C9314074E40120795890C682E0A1
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",E732C9314074E40120795890C682E0A1"
+msgid "Ama gitmediniz, değil mi? İşte buradasınız. Bu düşünce ile gerçeklik arasındaki farkı fark ettiniz mi?"
+msgstr "But you didn't leave, did you? Here you are. Did you notice the difference between this thought and reality?"
+
+#. Key:	143198DB471AFE1085EEF3B7277CC46D
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",143198DB471AFE1085EEF3B7277CC46D"
+msgid "Bu semptomlar ne sıklıkla oluyor? Belki de doktora gitmeli, kalp kontrolü yaptırmalısınız. Göz ardı edilmemeli."
+msgstr "How often do these symptoms occur? Maybe you should see a doctor and get your heart checked. It shouldn't be ignored."
+
+#. Key:	F6CFFAF64A00838487DB2E8CA9F95805
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_0.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",F6CFFAF64A00838487DB2E8CA9F95805"
+msgid "Doktor, bugün yine işe giderken kalp krizi geçireceğimi düşündüm. Metro çok kalabalıktı, hava yoktu, göğsüm sıkıştı..."
+msgstr "Doctor, today while going to work I thought I was having a heart attack again. The subway was very crowded, there was no air, my chest tightened..."
+
+#. Key:	156522A84D0346B078DDF0B19579D742
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",156522A84D0346B078DDF0B19579D742"
+msgid "Çıkışı hedefleyene her zaman bir çıkış vardır "
+msgstr "There is always an exit for those who aim for it."
+
+#. Key:	8715F6D84EF43228E1A2EEA662041277
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",8715F6D84EF43228E1A2EEA662041277"
+msgid "Kimine evet kimine hayır"
+msgstr "Yes for some, no for others."
+
+#. Key:	2C26A0B846647E9D72AABBA953F0778C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_1.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",2C26A0B846647E9D72AABBA953F0778C"
+msgid "Her tünelin bir çıkışı var mıdır?"
+msgstr "Does every tunnel have an exit?"
+
+#. Key:	E2A0252240A69F1285889B9A71A8B89A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",E2A0252240A69F1285889B9A71A8B89A"
+msgid "Kusura bakmayın, dalgınlığıma gelmiş. Hemen buz gibi bir su ve yanında taze bir çay getiriyorum."
+msgstr "I'm sorry, I was absent-minded. I'm bringing ice-cold water and fresh tea right away."
+
+#. Key:	1EC80E0F4AD15B5D494F57AE4EB7A459
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",1EC80E0F4AD15B5D494F57AE4EB7A459"
+msgid "Burası kafe değil, şikayet merkezi. Kendi suyunuzu yanınızda getirmeliydiniz. "
+msgstr "This is not a cafe, it's a complaint center. You should have brought your own water."
+
+#. Key:	ECB79C37423F9307B64793A92D8624C6
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_10.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",ECB79C37423F9307B64793A92D8624C6"
+msgid "Bir bardak su bile ikram etmediniz, boğazım kurudu konuşmaktan."
+msgstr "You didn't even offer a glass of water, my throat is dry from talking."
+
+#. Key:	5FFC2BEC4706751ACAFEC4985A79610C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5FFC2BEC4706751ACAFEC4985A79610C"
+msgid "Haklısınız, belki biraz müzik açmak veya odaya taze çiçekler koymak havayı değiştirir. Hemen ilgileniyorum."
+msgstr "You're right, maybe turning on some music or putting fresh flowers in the room will change the atmosphere. I'll take care of it right away."
+
+#. Key:	1FBB7F1C4D2CC081C3645D84EF859535
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",1FBB7F1C4D2CC081C3645D84EF859535"
+msgid "Enerjiyi bozan duvarlar değil, sizin bitmek bilmeyen negatifliğiniz olabilir mi?"
+msgstr "Could it be your endless negativity, not the walls, that spoils the energy?"
+
+#. Key:	F7169E8A4496F42CECB89C9AD7964CBF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_11.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",F7169E8A4496F42CECB89C9AD7964CBF"
+msgid "Buradaki enerji çok basık, insanın ruhu daralıyor. Duvarların rengi bile iç karartıcı"
+msgstr "The energy here is very oppressive, it narrows one's soul. Even the color of the walls is depressing."
+
+#. Key:	B90A464845AFA3DF6C10F6B8EB41842C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",B90A464845AFA3DF6C10F6B8EB41842C"
+msgid "O zaman biraz dinlenirsin; durmak pes etmek değil, yeniden başlamak için güç toplamaktır."
+msgstr "Then you rest a little; stopping is not giving up, it is gathering strength to start again."
+
+#. Key:	FA95CDC74F1AC2FE67A3CD899D1FA1F3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",FA95CDC74F1AC2FE67A3CD899D1FA1F3"
+msgid "O zaman olduğun yere yığılır kalırsın, kimse de elinden tutmaz."
+msgstr "Then you'll collapse where you are, and no one will hold your hand."
+
+#. Key:	E93D4A6F4F2B541AD3A1AE888380F379
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_12.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",E93D4A6F4F2B541AD3A1AE888380F379"
+msgid "İlerlediğim yol çok uzunsa ve dizlerimin dermanı tükenirse nasıl başa çıkmam gerekir"
+msgstr "If the road I'm on is too long and my knees run out of strength, how should I cope?"
+
+#. Key:	0A5BFABE49FB8E80E3E594B31DBD01FB
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",0A5BFABE49FB8E80E3E594B31DBD01FB"
+msgid "Maske takmak yorucu. Peki gerçekten neşeli hissettiğiniz bir an yaratsanız, sadece kendiniz için, ne yapardınız?"
+msgstr "Wearing a mask is tiring. So if you were to create a moment where you truly feel cheerful, just for yourself, what would you do?"
+
+#. Key:	94F0C83C4EDDD7DA4102ECBE5B484FF3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",94F0C83C4EDDD7DA4102ECBE5B484FF3"
+msgid "Çoğumuz maske takıyoruz. Sosyal hayat bunu gerektiriyor. En azından bunu fark etmeniz bir bilinçlendirme."
+msgstr "Most of us wear masks. Social life requires it. At least noticing this is an awareness."
+
+#. Key:	5E6F13C647E848277B4C10A46D2212A5
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_13.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",5E6F13C647E848277B4C10A46D2212A5"
+msgid "Dün bir arkadaşımla konuştum. 'Çok neşelisin' dedi. Oysa içim bomboş. Maske takıyorum sanki."
+msgstr "I spoke with a friend yesterday. They said, 'You're so cheerful.' Yet I feel empty inside. It's like I'm wearing a mask."
+
+#. Key:	70F86C0B4D94D4E99072199C54669019
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",70F86C0B4D94D4E99072199C54669019"
+msgid "İkisi de olabilir, ama daha önemlisi: o fırçayı elinize aldığınızda ne hissederdiniz? O duyguyu özlüyor musunuz?"
+msgstr "It could be both, but more importantly: what would you feel when you picked up that brush? Do you miss that feeling?"
+
+#. Key:	5995B24B4F5D45C9662C729F1B15F4B6
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5995B24B4F5D45C9662C729F1B15F4B6"
+msgid "Belki de o dönem kapandı. İnsanlar değişir, ilgi alanları solar. Zorlamaya gerek yok."
+msgstr "Maybe that era has ended. People change, interests fade. There's no need to force it."
+
+#. Key:	68B443A74C666BD9CBBDF487346CD717
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_14.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",68B443A74C666BD9CBBDF487346CD717"
+msgid "Geçen hafta eski bir hobimi düşündüm. Resim yapardım eskiden. Ama şimdi... Zamanım mı yok sence, yoksa bir şey hissetmekten mi korkuyorum?"
+msgstr "Last week I thought about an old hobby. I used to paint. But now... Do you think I don't have time, or am I afraid of feeling something?"
+
+#. Key:	F124216B427E5358B82E19BDF367292C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",F124216B427E5358B82E19BDF367292C"
+msgid "O anın sizi bu kadar etkilemesi güzel. Basit mutlulukları yeniden keşfetmek için hangi çocuksu şeyleri deneyebilirsiniz?"
+msgstr "It's nice that the moment affected you so much. What childish things could you try to rediscover simple joys?"
+
+#. Key:	2A7A86CB4B9030F6DBA7BE8C3BA7D3F6
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",2A7A86CB4B9030F6DBA7BE8C3BA7D3F6"
+msgid "Çocuklar henüz hayatın gerçeklerini bilmiyorlar. Bizler o masumiyeti kaybettik. Bu normal bir kayıp."
+msgstr "Children don't know the realities of life yet. We have lost that innocence. This is a normal loss."
+
+#. Key:	C9BCEB4F4F604C5A0C6910AA758C79C0
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_15.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",C9BCEB4F4F604C5A0C6910AA758C79C0"
+msgid "Bugün markette bir çocuk gülüyordu. O kadar içtendi ki... Ne zaman bu kadar basit mutlu olabildim acaba?"
+msgstr "Today a child was laughing at the market. It was so sincere... I wonder when I was last able to be that simply happy?"
+
+#. Key:	BF3883B440EB19981E895ABAE3F03284
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",BF3883B440EB19981E895ABAE3F03284"
+msgid "Belki de sorulması gereken: nereye koşmak istersiniz? Neyin peşinden gitmek sizi dolu hissettirir?"
+msgstr "Perhaps the question that needs to be asked is: where do you want to run to? What pursuit would make you feel fulfilled?"
+
+#. Key:	E96B269448EDCB87A0F63083BDBF49A5
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",E96B269448EDCB87A0F63083BDBF49A5"
+msgid "Genellikle kendimizden kaçıyoruz. Çünkü sorun içimizde. Nereye giderseniz gidin, siz yine oradasınız."
+msgstr "Usually, we're running away from ourselves. Because the problem is within us. No matter where you go, you are still there."
+
+#. Key:	508A56EB4DDC050668A9E4AC3DDC0099
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_16.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",508A56EB4DDC050668A9E4AC3DDC0099"
+msgid "Bazen... bazen her şeyi bırakıp gitmeyi hayal ediyorum. Ama sonra düşünüyorum... Kaçmak bir çözüm mü, yoksa sadece kendimden mi kaçıyorum?"
+msgstr "Sometimes... sometimes I dream of leaving everything behind. But then I think... Is running away a solution, or am I just running away from myself?"
+
+#. Key:	52FEB91C45CF200E6F6D21BBE262CF7F
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",52FEB91C45CF200E6F6D21BBE262CF7F"
+msgid "Bu rutini kıracak, size enerji verecek küçük bir değişiklik yapabilseydiniz ne olurdu? Bir deney yapalım mı?"
+msgstr "What would happen if you could make a small change that breaks this routine and gives you energy? Shall we try an experiment?"
+
+#. Key:	BE3E85104106F788BAD39CB2DE7B58C5
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",BE3E85104106F788BAD39CB2DE7B58C5"
+msgid "Bu çark metaforu çok doğru. Çoğu insan için hayat böyle işliyor. Kabullenmek belki de en gerçekçi yaklaşım."
+msgstr "This wheel metaphor is very accurate. For most people, this is how life works. Acceptance is perhaps the most realistic approach."
+
+#. Key:	59A93A8047ADED455AE49FAEF4BDF5C6
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_17.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",59A93A8047ADED455AE49FAEF4BDF5C6"
+msgid "İşime gidiyorum, eve dönüyorum, yatıyorum, tekrar başlıyor. Bir hamster çarkındayım sanki."
+msgstr "I go to work, come home, go to bed, then it starts again. It's like I'm in a hamster wheel."
+
+#. Key:	0C95D4DF42D9283CE189859E8FDE31A4
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",0C95D4DF42D9283CE189859E8FDE31A4"
+msgid "Evet, ama her seferinde o eski 'ben'in aslında yeni bir versiyona dönüşmek için gerekli olduğunu fark ettim. Siz kim olmak istiyorsunuz?"
+msgstr "Yes, but each time I realized that the old 'me' was actually necessary to transform into a new version. Who do you want to be?"
+
+#. Key:	80DD79004A248A59AF449FB82C983F35
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",80DD79004A248A59AF449FB82C983F35"
+msgid "Yabancılaşma modern hayatın kaçınılmaz bir parçası. Çoğumuz bu hissi yaşıyoruz. Belki de o eski sizi geri getiremezsiniz."
+msgstr "Alienation is an inevitable part of modern life. Most of us experience this feeling. Perhaps you can't bring back the old you."
+
+#. Key:	FC71CD35406D8A51622AB2AAAC1DCD1E
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_18.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",FC71CD35406D8A51622AB2AAAC1DCD1E"
+msgid "Geçenlerde eski fotoğraflara baktım. O insana yabancıyım artık. Size bir şey soracağım... Siz hiç kendinize yabancılaştığınızı hissettiniz mi doktor?"
+msgstr "I looked at old photos recently. I'm a stranger to that person now. I'm going to ask you something... Have you ever felt alienated from yourself, doctor?"
+
+#. Key:	4D51B85D4AD6B9B14310F5B9B35562AF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",4D51B85D4AD6B9B14310F5B9B35562AF"
+msgid "Peki en son ne zaman küçük bir şey sizi gülümsetti? Belki dikkatinizi kaçırdığınız anlar var?"
+msgstr "So, when was the last time a small thing made you smile? Maybe there are moments you've missed noticing?"
+
+#. Key:	59D5759F456CD341B854729D8ACF0A0C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",59D5759F456CD341B854729D8ACF0A0C"
+msgid "Bu boşluk hissi ne kadar süredir devam ediyor? Hayatınızda anlam bulamadığınız başka alanlar var mı?"
+msgstr "How long has this feeling of emptiness been going on? Are there other areas of your life where you can't find meaning?"
+
+#. Key:	0560D2424BF5454C6F722294833367FD
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_19.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",0560D2424BF5454C6F722294833367FD"
+msgid "Doktor, artık hiçbir şey eskisi gibi heyecan vermiyor. Sabah kalktığımda... neden kalktığımı bilmiyorum bile."
+msgstr "Doctor, nothing brings excitement like it used to anymore. When I wake up in the morning... I don't even know why I'm getting up."
+
+#. Key:	551DFA8D41DEE8FA93A511BC264B062A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",551DFA8D41DEE8FA93A511BC264B062A"
+msgid "Umut ve gerçekçilik karşıt değil. Gerçek umut, hayatınızda küçük de olsa bir şeyi değiştirebileceğinizi bilmektir. Denemeye hazır mısınız?"
+msgstr "Hope and realism are not opposites. True hope is knowing that you can change something in your life, however small. Are you ready to try?"
+
+#. Key:	8F31447541642730DF4B449C594BE1E3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",8F31447541642730DF4B449C594BE1E3"
+msgid "Gerçekçilik önemli. Hayat her zaman hayal ettiğimiz gibi olmuyor. Bunu kabullenmek olgunlaşmanın bir parçası."
+msgstr "Realism is important. Life doesn't always turn out how we imagined. Accepting this is a part of maturing."
+
+#. Key:	728DD44B4129DE07A234A9ACF657C900
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_2.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",728DD44B4129DE07A234A9ACF657C900"
+msgid "Bana umut vermeli misiniz, yoksa gerçekçi olmayı mı öğretmelisiniz?"
+msgstr "Should you give me hope, or should you teach me to be realistic?"
+
+#. Key:	46FD8A5C405E2C5D144FD8BF190D45EC
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",46FD8A5C405E2C5D144FD8BF190D45EC"
+msgid "Bazı günler zorlanıyorum, ama sonra bir kahve kokusu, bir gülümseme, küçük bir an... umut hep orada. Sizin için de orada, görmek ister misiniz?"
+msgstr "Some days I struggle, but then a smell of coffee, a smile, a small moment... hope is always there. It's there for you too, would you like to see it?"
+
+#. Key:	9A2C9B0A466B4ACA9E2C78B7DA705660
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",9A2C9B0A466B4ACA9E2C78B7DA705660"
+msgid "Hayat mücadele. Herkes zorlanır. Önemli olan gerçekçi beklentiler. Sürekli mutluluk beklemek hayal kırıklığına yol açar."
+msgstr "Life is a struggle. Everyone struggles. What matters is realistic expectations. Expecting constant happiness leads to disappointment."
+
+#. Key:	35C7E5524153458837CAC594CE092BED
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_20.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",35C7E5524153458837CAC594CE092BED"
+msgid "Siz yaşamaktan zevk alıyor musunuz doktor? Çünkü eğer siz bile zorlanıyorsanız, benim için umut var mı?"
+msgstr "Do you enjoy living, doctor? Because if even you are struggling, is there hope for me?"
+
+#. Key:	980658D549A5986FDF0E5BBACDFA6273
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",980658D549A5986FDF0E5BBACDFA6273"
+msgid "Bedeniniz ne zaman en son özgürce hareket etti? Bir sonraki şarkıda, kimse görmese bile, bir adım atabilir misiniz?"
+msgstr "When was the last time your body moved freely? In the next song, even if no one is watching, could you take a step?"
+
+#. Key:	14F873D04ACF6D0DA88586A8E75DAD1D
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",14F873D04ACF6D0DA88586A8E75DAD1D"
+msgid "Yaşlandıkça enerji azalır. Eskiden yaptıklarımızı yapmamak normal. Beden yorulur, ruh da."
+msgstr "As we get older, energy decreases. It's normal not to do what we used to do. The body gets tired, and so does the soul."
+
+#. Key:	DD593E9648FB8B5FD6C135B91A74DBF0
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_21.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",DD593E9648FB8B5FD6C135B91A74DBF0"
+msgid "Bazen müzik açıyorum. Eskiden dans ederdim evde. Şimdi sadece dinliyorum, hareketsiz."
+msgstr "Sometimes I turn on music. I used to dance at home. Now I just listen, motionless."
+
+#. Key:	11CECF574C5EAB5B3677319FC92A05A0
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",11CECF574C5EAB5B3677319FC92A05A0"
+msgid "Köpek şu ana odaklanmış. Peki siz şu ana odaklansanız, bu odadaki hava, koltuğun dokusu, kendi nefesiniz... ne hissedersiniz?"
+msgstr "The dog is focused on the present. Well, if you focused on the present, the air in this room, the texture of the seat, your own breath... what would you feel?"
+
+#. Key:	5B4193AC432778B566FECC84A7AFC1C0
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5B4193AC432778B566FECC84A7AFC1C0"
+msgid "Köpekler düşünmez, sorgularlar. Bilinç bir hediye ama aynı zamanda bir lanet. İnsan olmak kolay değil."
+msgstr "Dogs don't think, they question. Consciousness is a gift but also a curse. It's not easy being human."
+
+#. Key:	B1BF0586456391AFF40231B7B4518FDD
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_22.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",B1BF0586456391AFF40231B7B4518FDD"
+msgid "Dün bir köpek gördüm parkta. Sahibi top attı, köpek koştu, getirdi... O kadar mutluydu ki. Ben neden olamıyorum?"
+msgstr "I saw a dog in the park yesterday. Its owner threw a ball, the dog ran, brought it back... It was so happy. Why can't I be?"
+
+#. Key:	1611470F4CDA653F6EDCFC892B13E208
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",1611470F4CDA653F6EDCFC892B13E208"
+msgid "Tüm bu sesleri bir susturup sadece içinize kulak verseydiniz, ilk duyacağınız fısıltı ne olurdu?"
+msgstr "If you silenced all these voices and just listened to your inner self, what would be the first whisper you'd hear?"
+
+#. Key:	CB2A0F22433C679599CB7C8C5788A111
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",CB2A0F22433C679599CB7C8C5788A111"
+msgid "Belki de hiçbir şey istemiyorsunuz. İstek duymamak da bir durum. Bunu anormal görmek yanlış olabilir."
+msgstr "Maybe you don't want anything. Not feeling desire is also a state. It might be wrong to see this as abnormal."
+
+#. Key:	7DC7E3344EE5D5778E9FEFAC4DE10D06
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_23.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",7DC7E3344EE5D5778E9FEFAC4DE10D06"
+msgid "Annem 'mutlu ol' diyor. Arkadaşlarım 'eğlen' diyor. Patron 'üretken ol' diyor... Peki ben ne istiyorum? Bunu nasıl bulacağım?"
+msgstr "My mom says 'be happy.' My friends say 'have fun.' My boss says 'be productive'... So what do I want? How will I find it?"
+
+#. Key:	9B8EB77944D094033095A88FB4B1B98C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",9B8EB77944D094033095A88FB4B1B98C"
+msgid "Peki siz o otobüste telefonunuza bakmayıp pencereden dışarı baksaydınız ne görürdünüz? Bir dahaki sefere deneyelim mi?"
+msgstr "Well, if you didn't look at your phone on that bus and looked out the window instead, what would you see? Shall we try it next time?"
+
+#. Key:	B25BB6BF45AB274CF6A027846AE3CDFF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",B25BB6BF45AB274CF6A027846AE3CDFF"
+msgid "Modern toplum böyle işliyor. Hepimiz birbirimize yabancıyız. Otobüsteki o insanların da aynı boşluğu yaşadığını düşünüyor musunuz?"
+msgstr "This is how modern society works. We are all strangers to each other. Do you think those people on the bus are experiencing the same emptiness?"
+
+#. Key:	E977C2BA460D85660BB99DA484156EBF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_24.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",E977C2BA460D85660BB99DA484156EBF"
+msgid "Geçen gün otobüste tüm yolcuları izledim. Hepsi telefonlarına bakmıyorsa boş boş öne bakıyordu. Ben de onlardan biriyim."
+msgstr "The other day I watched all the passengers on the bus. If they weren't looking at their phones, they were staring blankly ahead. I am one of them too."
+
+#. Key:	1E030135442D2579FB784D8BB75FE41C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",1E030135442D2579FB784D8BB75FE41C"
+msgid "Ya siz başka bir dünyanın değil, kendi özgün yolunuzun peşindeyseniz? Sizi tutuşturan ne olabilir, başkalarının değil, sizin için?"
+msgstr "What if you are not after another world, but your own unique path? What could set you ablaze—for you, not for others?"
+
+#. Key:	F89750F246F2B67BE186D2A9B4F470AA
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",F89750F246F2B67BE186D2A9B4F470AA"
+msgid "Bazı insanlar böyle doğar. Herkes hırslı veya heyecanlı olmak zorunda değil. Belki de kabullenmek en iyisi."
+msgstr "Some people are born this way. Not everyone has to be ambitious or excited. Maybe acceptance is best."
+
+#. Key:	92F2BE3545D0355F5238C8809375D522
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_25.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",92F2BE3545D0355F5238C8809375D522"
+msgid "İnsanlar hedeflerinden bahsediyor sürekli. Kariyer, aile, başarı... Bende bu ateş hiç yanmadı. Ya ben yanlış yapıdaysam? Ya ben bu dünyaya uygun değilsem?"
+msgstr "People talk about their goals constantly. Career, family, success... This fire never lit in me. What if I'm built wrong? What if I'm not suited for this world?"
+
+#. Key:	57AC198C4152F4552B4A2B89C04C9A5C
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",57AC198C4152F4552B4A2B89C04C9A5C"
+msgid "O tavan altında dün yaşanmamış ne yaşanabilir? Bugün kendinize ne hediye edebilirsiniz?"
+msgstr "What can happen under that ceiling today that didn't happen yesterday? What can you gift yourself today?"
+
+#. Key:	6AEBFC12475A0C964067DCBB905F3AD9
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",6AEBFC12475A0C964067DCBB905F3AD9"
+msgid "Varoluşsal sorular hepimizi meşgul eder. Belki de evrensel bir cevap yoktur. Anlamsızlıkla yaşamayı öğrenmek gerekir."
+msgstr "Existential questions occupy us all. Perhaps there is no universal answer. One must learn to live with meaninglessness."
+
+#. Key:	5CD64AFE480A84B9C716CC85688CEF24
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_26.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",5CD64AFE480A84B9C716CC85688CEF24"
+msgid "Doktor, her gün aynı tavana bakarak uyanıyorum. Ve her gün aynı soruyu soruyorum: bunun anlamı ne?"
+msgstr "Doctor, I wake up looking at the same ceiling every day. And every day I ask the same question: what is the meaning of this?"
+
+#. Key:	3CE1D433489504E9FB277EA1E583DFC0
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",3CE1D433489504E9FB277EA1E583DFC0"
+msgid "Ben de şaşırdım evet"
+msgstr "I'm surprised too, yes"
+
+#. Key:	5E8FF5F9461198069449D59E036027D2
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5E8FF5F9461198069449D59E036027D2"
+msgid "Lütfen beni yeme"
+msgstr "Please don't eat me"
+
+#. Key:	8E02832E436BBFBBFDEFA0B47A02DE39
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_28.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",8E02832E436BBFBBFDEFA0B47A02DE39"
+msgid "Sandalyeleriniz epey sağlammış"
+msgstr "Your chairs are quite sturdy"
+
+#. Key:	D93777EA4DBB7CEA750542ACDCE6957B
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",D93777EA4DBB7CEA750542ACDCE6957B"
+msgid "Gün ışığı "
+msgstr "Daylight"
+
+#. Key:	ACB5539D420411C130590B9FCB4F28B2
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",ACB5539D420411C130590B9FCB4F28B2"
+msgid "2012 Fiat Doblo sağ ön far"
+msgstr "2012 Fiat Doblo right front headlight"
+
+#. Key:	5F55928241417FFFC276B892ACCA8694
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_29.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",5F55928241417FFFC276B892ACCA8694"
+msgid "Bugünün teto kelimesini tahmin et"
+msgstr "Guess today's Teto word"
+
+#. Key:	38D495964DD690B0C11C3DAFBF1D7AF3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",38D495964DD690B0C11C3DAFBF1D7AF3"
+msgid "Onları ye"
+msgstr "Eat them"
+
+#. Key:	5CFAE5104A50A29DAAA548B3D1C98F56
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5CFAE5104A50A29DAAA548B3D1C98F56"
+msgid "Öylesin zaten"
+msgstr "You are anyway"
+
+#. Key:	697F15DA456BB8C34993F69F8A500035
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_30.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",697F15DA456BB8C34993F69F8A500035"
+msgid "Bana anime kızı diyolar napmalıyım?"
+msgstr "They call me an anime girl, what should I do?"
+
+#. Key:	161BBF32449F318CDF77449DC5686D88
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",161BBF32449F318CDF77449DC5686D88"
+msgid "*Baget ver"
+msgstr "*Give baguette"
+
+#. Key:	062D83354B6EE73B590D10A5AF1C4F87
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",062D83354B6EE73B590D10A5AF1C4F87"
+msgid "*Pırasa ver"
+msgstr "*Give leek"
+
+#. Key:	A6AFDAD144B5EA00A2D3BA9F9F6E5F46
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_31.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",A6AFDAD144B5EA00A2D3BA9F9F6E5F46"
+msgid "Açım."
+msgstr "I'm hungry."
+
+#. Key:	4F67C976414A4E923A384098EFF149BE
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",4F67C976414A4E923A384098EFF149BE"
+msgid "Anlıyorum pearto..."
+msgstr "I understand pearto..."
+
+#. Key:	2BB466FD402B6FF49392C191E4A39C2A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",2BB466FD402B6FF49392C191E4A39C2A"
+msgid "Yok sen utausun"
+msgstr "No, you are a Utau"
+
+#. Key:	B355CB734DE87D31C42D64893526AE56
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_32.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",B355CB734DE87D31C42D64893526AE56"
+msgid "Ben armutum."
+msgstr "I am a pear."
+
+#. Key:	4CA671F84718E2F12571909DD962BAAD
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",4CA671F84718E2F12571909DD962BAAD"
+msgid "Kimi ni take kiss me"
+msgstr "Kimi ni take kiss me"
+
+#. Key:	5FF2463C4FEBC332BB111DBB2CE7FF3A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5FF2463C4FEBC332BB111DBB2CE7FF3A"
+msgid "?"
+msgstr "?"
+
+#. Key:	055F792E43CA86FEF76878932B1171A3
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_33.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",055F792E43CA86FEF76878932B1171A3"
+msgid "Itsudemo I love you"
+msgstr "Itsudemo I love you"
+
+#. Key:	AA4F04C149C90E08FAB433B6F068F927
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",AA4F04C149C90E08FAB433B6F068F927"
+msgid "1 nisan şakasısın zaten normal değil mi"
+msgstr "You're an April Fool's joke anyway, isn't that normal?"
+
+#. Key:	8D5F9B8E4025768C9BEB4C95D795946F
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",8D5F9B8E4025768C9BEB4C95D795946F"
+msgid "Hehe Miku çakması seni"
+msgstr "Hehe, you Miku knock-off"
+
+#. Key:	76E9E92743ED1DB936FF719C76C7D1BE
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_34.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",76E9E92743ED1DB936FF719C76C7D1BE"
+msgid "Doğum gününün 1 nisan oması çok sıkıntı iş ya"
+msgstr "Having your birthday on April 1st is such a troublesome thing"
+
+#. Key:	95B734A44F2A85AA3253F69DE4FC3908
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",95B734A44F2A85AA3253F69DE4FC3908"
+msgid "Miku'yu ye seni eklemek zorunda kalsınlar "
+msgstr "Eat Miku so they're forced to add you"
+
+#. Key:	B44A298C47B8B4E5A875E584FFC4ECCF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",B44A298C47B8B4E5A875E584FFC4ECCF"
+msgid "Yapacak bişey yok."
+msgstr "There's nothing to do."
+
+#. Key:	08C091A24CE1A5CA9E7F1F8394567A72
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_35.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",08C091A24CE1A5CA9E7F1F8394567A72"
+msgid "Miku'yu çok kıskanıyom ya Fortnite'a bile eklediler kızı zaten Teto kim ki?"
+msgstr "I'm so jealous of Miku, they even added her to Fortnite; who is Teto anyway?"
+
+#. Key:	F6498184406D1C200AA131B18C0A9D54
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",F6498184406D1C200AA131B18C0A9D54"
+msgid "Geçmişte kaç kez böyle düşündünüz ve kaç kez gerçekleşti? Belki de size terfi teklif edecek, bunu hiç düşündünüz mü?"
+msgstr "How many times have you thought like this in the past and how many times did it happen? Maybe they will offer you a promotion, have you ever thought about that?"
+
+#. Key:	2792F39A462684410B01B790B7DDF876
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",2792F39A462684410B01B790B7DDF876"
+msgid "İşten çıkarılma sinyalleri aldınız mı? Belki önlem almanız gerekebilir. CV'nizi güncellemeyi düşündünüz mü?"
+msgstr "Have you received signals of dismissal? You might need to take precautions. Have you thought about updating your CV?"
+
+#. Key:	B44B7E5B45E2908C8A810BB4AE30D44B
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_36.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",B44B7E5B45E2908C8A810BB4AE30D44B"
+msgid "Patronum benimle konuşmak istediğini söyledi. Yarın toplantı varmış. Beni kovacak, değil mi? Yoksa siz bu kadar endişelenmeme gerek olmadığını mı düşünüyorsunuz?"
+msgstr "My boss said he wants to talk to me. There is a meeting tomorrow. He's going to fire me, right? Or do you think I don't need to worry this much?"
+
+#. Key:	58BC5987497C26CC98EDF287552A73F9
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",58BC5987497C26CC98EDF287552A73F9"
+msgid "Peki ya sadece stres veya susuzluktansa? Ya da ekrana çok bakmaktan? En basit açıklama bazen en doğrusudur."
+msgstr "What if it's just from stress or dehydration? Or from looking at the screen too much? The simplest explanation is sometimes the correct one."
+
+#. Key:	BECC8D1F4C27415F0CE95B8D7A33F631
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",BECC8D1F4C27415F0CE95B8D7A33F631"
+msgid "Baş ağrısını hafife almamak önemli. MR çektirdiniz mi? Erken teşhis hayati önem taşıyor bu tür şeylerde."
+msgstr "It's important not to underestimate a headache. Have you had an MRI? Early diagnosis is vital in these kinds of things."
+
+#. Key:	1A17069E40A24243CD3331B8AF838058
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_37.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",1A17069E40A24243CD3331B8AF838058"
+msgid "Başım ağrıyor son iki gündür. İnternette araştırdım, tümör belirtisi olabilirmiş..."
+msgstr "My head has been hurting for the last two days. I researched it on the internet, it could be a sign of a tumor..."
+
+#. Key:	16079A67400BEB6F3BFB06B148913805
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",16079A67400BEB6F3BFB06B148913805"
+msgid "Şu an anneniz sağlıklı mı? Peki bu korkuyla geçirdiğiniz zaman, onunla kaliteli vakit geçirmenizi engelliyor mu?"
+msgstr "Is your mother healthy right now? And does the time you spend with this fear prevent you from spending quality time with her?"
+
+#. Key:	21FDD51442244E9A221D9FB35A4B0BAA
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",21FDD51442244E9A221D9FB35A4B0BAA"
+msgid "Sevdiklerimizi kaybetme korkusu doğal. Belki daha sık ziyaret etmelisiniz. Her an her şey olabilir sonuçta."
+msgstr "The fear of losing our loved ones is natural. Maybe you should visit more often. After all, anything can happen at any moment."
+
+#. Key:	2B63BB18426AEF1BFFDFF68DC55B21DF
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_38.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",2B63BB18426AEF1BFFDFF68DC55B21DF"
+msgid "Annem yaşlanıyor. Her telefonda sesini dinliyorum, bir gün açmayacak diye... Normal mi bu? Yoksa ben mi aşırı takıntılıyım"
+msgstr "My mother is getting old. I listen to her voice on every phone call, thinking one day she won't answer... Is this normal? Or am I just over-obsessed?"
+
+#. Key:	5F2A9E174A7F9A1A5627CE923DEAFFCA
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",5F2A9E174A7F9A1A5627CE923DEAFFCA"
+msgid "Deprem geçti ve siz burdasınız. Eviniz ayakta. Ya bu dayanıklılığınıza odaklansanız, sürekli gelebilecek felakete değil?"
+msgstr "The earthquake passed and you are here. Your house is standing. What if you focus on this resilience, not on the constant potential disaster?"
+
+#. Key:	2E099D5245CA8A842B171AA5CF640392
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",2E099D5245CA8A842B171AA5CF640392"
+msgid "Deprem çantanız hazır mı? Evinizde güvenli bir alan belirlediniz mi? Bu bölgede risk yüksek, hazırlıklı olmak şart."
+msgstr "Is your earthquake bag ready? Have you identified a safe area in your home? The risk is high in this region, being prepared is a must."
+
+#. Key:	8310692E432EB12367B61482F4BE69A4
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_39.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",8310692E432EB12367B61482F4BE69A4"
+msgid "Dün gece deprem oldu, hafif bir sarsıntıydı. Ama ben hala düşünüyorum... büyüğü gelirse..."
+msgstr "There was an earthquake last night, it was a slight tremor. But I'm still thinking... what if the big one comes..."
+
+#. Key:	02E039534761ECC73FFDF6AAD20A19AA
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",02E039534761ECC73FFDF6AAD20A19AA"
+msgid "Onlar gibi değil ama... siz gibi olmak nasıl görünür? Paylaşmasanız da, sadece kendiniz için yapmak istediğiniz bir şey var mı?"
+msgstr "Not like them but... what would it look like to be like you? Is there something you want to do just for yourself, even if you don't share it?"
+
+#. Key:	6766C0F240AD452E42C6519225167CF4
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",6766C0F240AD452E42C6519225167CF4"
+msgid "Sosyal medya bir illüzyon. Herkes maskeli. Siz en azından dürüstsünüz kendi halinizle. Bu belki de daha değerli."
+msgstr "Social media is an illusion. Everyone is masked. You are at least honest with your own state. This is perhaps more valuable."
+
+#. Key:	FD7AC7EF45024F7F76F5738F0603C463
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_4.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",FD7AC7EF45024F7F76F5738F0603C463"
+msgid "Sosyal medyada herkes bir şeyler yapıyor, bir yerlere gidiyor. Ben sadece izliyorum. Onlar gibi olmaya mı çalışmalıyım, yoksa bu beni daha da mı boğar?"
+msgstr "On social media everyone is doing something, going places. I'm just watching. Should I try to be like them, or would this suffocate me even more?"
+
+#. Key:	C42C97584DE119B274E278894C70D2EC
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",C42C97584DE119B274E278894C70D2EC"
+msgid "Ya sadece meşgulse? Ya telefonunun şarjı bitmişse? Siz hiç birine 6 saat cevap vermeden kaldınız mı hayatınızda?"
+msgstr "What if they're just busy? What if their phone ran out of battery? Have you ever gone 6 hours without answering someone in your life?"
+
+#. Key:	DB5F7B9742C81BDD6C07D588AD7F5236
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",DB5F7B9742C81BDD6C07D588AD7F5236"
+msgid "Belki de gerçekten bir sorun var. Ortak tanıdıklarınıza sordunuz mu? Haber almalısınız."
+msgstr "Maybe there really is a problem. Have you asked your mutual friends? You should get news."
+
+#. Key:	442ECC224F0CAD5A15C328AF92FDE4C2
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_40.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",442ECC224F0CAD5A15C328AF92FDE4C2"
+msgid "Arkadaşım mesajıma cevap vermedi. 6 saattir bekliyorum... Ya ona bir şey olduysa? Ya kaza geçirdiyse? Yoksa bana kızgın mı?"
+msgstr "My friend didn't reply to my message. I've been waiting for 6 hours... What if something happened to them? What if they had an accident? Or are they mad at me?"
+
+#. Key:	715B0312471C123E275A2ABA344B3E96
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",715B0312471C123E275A2ABA344B3E96"
+msgid "Peki karayolundaki kaza istatistiklerine de baktınız mı? Günde kaç kez arabaya biniyorsunuz düşünmeden? Uçak aslında en güvenli araç."
+msgstr "Well, have you looked at the accident statistics on the road too? How many times a day do you get in a car without thinking? The airplane is actually the safest vehicle."
+
+#. Key:	174ED6104205EACDE1679DB5C3DF3DF6
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",174ED6104205EACDE1679DB5C3DF3DF6"
+msgid "Kaygınızı anlıyorum. Belki karayolu alternatifi düşünebilirsiniz. Ya da uçuştan önce testere güvenlik önlemleri hakkında bilgi alın."
+msgstr "I understand your anxiety. Maybe you can consider a road alternative. Or get information about flight security measures before flying."
+
+#. Key:	7EEC028949A45BAC25CE8180C251CEA4
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_41.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",7EEC028949A45BAC25CE8180C251CEA4"
+msgid "Uçakla gideceğim ay sonunda. Ama istatistiklere baktım, kazalar oluyor..."
+msgstr "I'm going by plane at the end of the month. But I looked at the statistics, accidents happen..."
+
+#. Key:	DC70AA3E469EAFB6C22C75A9BF38ED05
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",DC70AA3E469EAFB6C22C75A9BF38ED05"
+msgid "Ya bu kişi farklıysa? Ya kendinizi korumanın değil, şans tanımanın zamanı geldiyse? Eski acılar yeni mutlulukları engellemeli mi"
+msgstr "What if this person is different? What if it's time to give a chance instead of protecting yourself? Should old pains prevent new happiness?"
+
+#. Key:	279813B64B43D585B34CE1A327636C1A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",279813B64B43D585B34CE1A327636C1A"
+msgid "Kendinizi korumak akıllıca. İnsanlar değişmez genelde. Geçmiş tekrar edebilir, dikkatli olun."
+msgstr "It's wise to protect yourself. People generally don't change. The past can repeat, be careful."
+
+#. Key:	7C5920ED4AF3B047FC6C4C9F2BF5C88A
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_42.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",7C5920ED4AF3B047FC6C4C9F2BF5C88A"
+msgid "Yeni bir ilişkim var. Ama... ya terk ederse? Ya beni aldatırsa? Geçmişte hep öyle oldu. Korunmak için mesafeli durmam daha iyi değil mi?"
+msgstr "I have a new relationship. But... what if they leave? What if they cheat? It was always like that in the past. Isn't it better for me to keep my distance to protect myself?"
+
+#. Key:	F475231B46ADB848769818A65300CC45
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",F475231B46ADB848769818A65300CC45"
+msgid "O zaman kendi ışığını yakma vaktin gelmiş demektir;  yolun aydınlığı senin içindedir."
+msgstr "Then it means it's time to light your own light; the brightness of the road is within you."
+
+#. Key:	6BD349EA45ABAFC9FDC2E9AA0660723F
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",6BD349EA45ABAFC9FDC2E9AA0660723F"
+msgid "O zaman kaçacak yerin kalmaz, tamamen karanlığa mahkum olursun. "
+msgstr "Then you'll have nowhere to run, and you'll be condemned to total darkness."
+
+#. Key:	BCF1C36145E35BEBC936FAA09EBD41CE
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_5.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",BCF1C36145E35BEBC936FAA09EBD41CE"
+msgid "Bulunduğum tünelin dışı içinden daha karanlıksa ne olur?"
+msgstr "What if the outside of the tunnel I'm in is darker than the inside?"
+
+#. Key:	E84D6E3C423B30976FFFA8B27F0F7AD5
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",E84D6E3C423B30976FFFA8B27F0F7AD5"
+msgid "Haklısınız, hemen pencereyi açıyorum, taze bir hava hepimize iyi gelir."
+msgstr "You're right, I'm opening the window right away, some fresh air will do us all good."
+
+#. Key:	F28AA5DA4D677877837C7584390D6C89
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",F28AA5DA4D677877837C7584390D6C89"
+msgid "Bir bardak su bile ikram etmediniz, boğazım kurudu konuşmaktan."
+msgstr "You didn't even offer a glass of water, my throat is dry from talking."
+
+#. Key:	F65ED1154011A8E0874EBABF94135FA4
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_6.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",F65ED1154011A8E0874EBABF94135FA4"
+msgid "Burası çok havasız, içim daraldı resmen."
+msgstr "It's very stuffy in here, I'm literally suffocating."
+
+#. Key:	725AA3CB40F6A065D9BBB0A4F0F4C26F
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",725AA3CB40F6A065D9BBB0A4F0F4C26F"
+msgid "Kusura bakmayın, yaratıcı bir kaos diyelim buna. Hemen toparlıyorum. "
+msgstr "Pardon me, let's call it creative chaos. I'll tidy up right away."
+
+#. Key:	C6963ADE46E07166D913AFA161F001EA
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",C6963ADE46E07166D913AFA161F001EA"
+msgid "Bakma o zaman, gözlerini kapatıp sıranı bekle."
+msgstr "Don't look then, close your eyes and wait for your turn."
+
+#. Key:	FB8DE2B4421A3E674ECCC08CBB56A342
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_7.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",FB8DE2B4421A3E674ECCC08CBB56A342"
+msgid "Masanın üstü de ne kadar dağınık, bakarken bile yoruluyorum."
+msgstr "The tabletop is so messy, I get tired just looking at it."
+
+#. Key:	B05C949B4F1365AE7F141B852450E467
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",B05C949B4F1365AE7F141B852450E467"
+msgid "Sabrınız için teşekkürler, sizi daha fazla yormadan hemen asıl konuya geçiyoruz."
+msgstr "Thanks for your patience, we're moving on to the main topic right away without tiring you further."
+
+#. Key:	30B341C24BEE2B898BC1E2864EE7FECC
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",30B341C24BEE2B898BC1E2864EE7FECC"
+msgid "Sanki dışarıda dünyayı kurtaracakmışsın gibi konuşman komik."
+msgstr "It's funny you talk as if you're going to save the world outside."
+
+#. Key:	2AF632A04D20A0AEC4BE939F0EA0402F
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_8.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",2AF632A04D20A0AEC4BE939F0EA0402F"
+msgid "Bu görüşme daha ne kadar sürecek? Vaktim çok kıymetli."
+msgstr "How much longer will this meeting last? My time is very precious."
+
+#. Key:	59CA7D3B40227A25715B7192005A5113
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Answers_9_5D6D391245E5C248804600A771C6128F(0).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",59CA7D3B40227A25715B7192005A5113"
+msgid "Çok haklısınız, hemen daha yumuşak bir minder getirtiyorum. Rahat etmeniz önceliğimiz."
+msgstr "You're absolutely right, I'm getting a softer cushion right away. Your comfort is our priority."
+
+#. Key:	61DBB39B4A2C3DCCAFE799A49F62A577
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Answers_9_5D6D391245E5C248804600A771C6128F(1).Answers_9_5D6D391245E5C248804600A771C6128F.Dialogue_2_D538FF2B4540472145F789BC7AAB2E64
+msgctxt ",61DBB39B4A2C3DCCAFE799A49F62A577"
+msgid "Beğenmiyorsanız ayakta bekleyebilirsiniz Mehmet Bey."
+msgstr "If you don't like it, you can wait standing up, Mr. Mehmet."
+
+#. Key:	A1A9702243AD15EA43AC498199D1716B
+#. SourceLocation:	/Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+#: /Game/UI/DT_GameDialogues.DT_GameDialogues.NewRow_9.Question_5_0DC5C50F45DD594055CE11B3173E13D6
+msgctxt ",A1A9702243AD15EA43AC498199D1716B"
+msgid "Bu koltuk çok sert, belim ağrımaya başladı. Hiç mi konfor düşünülmedi burada?"
+msgstr "This seat is very hard, my back started to ache. Was comfort not considered here at all?"
+
+#. Key:	81A2D52C478E16E51561F89C781BDA30
+#. SourceLocation:	/Game/UI/WBP_Button.Default__WBP_Button_C.Text
+#: /Game/UI/WBP_Button.Default__WBP_Button_C.Text
+msgctxt ",81A2D52C478E16E51561F89C781BDA30"
+msgid "Button Text"
+msgstr "Button Text"
+
+#. Key:	9310262D43F6BC1F94A9C9949C4A62C8
+#. SourceLocation:	/Game/UI/WBP_Credits.WBP_Credits_C:WidgetTree.Button_Back.Text
+#: /Game/UI/WBP_Credits.WBP_Credits_C:WidgetTree.Button_Back.Text
+msgctxt ",9310262D43F6BC1F94A9C9949C4A62C8"
+msgid "< Geri"
+msgstr "< Back"
+
+#. Key:	293D7B2044F8C137CE10B8B1911A18AC
+#. SourceLocation:	/Game/UI/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_38.Text
+#: /Game/UI/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_38.Text
+msgctxt ",293D7B2044F8C137CE10B8B1911A18AC"
+msgid "HAZIRLAYAN:\r\nTeamPertevforge\r\n\r\n3D DESİGN\r\nEmir Şen\r\n\r\nYAZILIM\r\nÖmer Kerem Gökhan\r\nErdem Çevirgen\r\n\r\nUI/UX\r\nEmre TüRK\r\n\r\nMüZiK/SFX\r\nArda Emir Aksak\r\n\r\nHiKAYE\r\nEmre TÜRK\r\nErdem Çevirgen\r\nArda Emir Aksak\r\n\r\nBu oyun iTü GGJ26 etkinliğinde Global Gamejam 2026 için yapılmıştır."
+msgstr "PREPARED BY:\r\nTeamPertevforge\r\n\r\n3D DESIGN\r\nEmir Şen\r\n\r\nSOFTWARE\r\nÖmer Kerem Gökhan\r\nErdem Çevirgen\r\n\r\nUI/UX\r\nEmre TüRK\r\n\r\nMUSIC/SFX\r\nArda Emir Aksak\r\n\r\nSTORY\r\nEmre TÜRK\r\nErdem Çevirgen\r\nArda Emir Aksak\r\n\r\nThis game was made for Global Gamejam 2026 at the ITU GGJ26 event."
+
+#. Key:	DAF0C9904584556DCE97109C25F9B6E6
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.Button_Jumpscare.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.Button_Jumpscare.Text
+msgctxt ",DAF0C9904584556DCE97109C25F9B6E6"
+msgid "Free 5090Ti"
+msgstr "Free 5090Ti"
+
+#. Key:	CAA695794DC6D1E9990A5C873E3CF565
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.Button_Mainmenu.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.Button_Mainmenu.Text
+msgctxt ",CAA695794DC6D1E9990A5C873E3CF565"
+msgid "Ana Menü"
+msgstr "Mainmenu"
+
+#. Key:	BE9ADF9543D352FD929428A0F069A393
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock.Text
+msgctxt ",BE9ADF9543D352FD929428A0F069A393"
+msgid "Psikopat Psikolog tüm maskeleri başarılı bir şekilde topladı."
+msgstr "The Psychopath Psychologist successfully collected all the masks."
+
+#. Key:	51BD3149482CE884E8594884E66EE7E8
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_0.Text
+msgctxt ",51BD3149482CE884E8594884E66EE7E8"
+msgid "Tebrikler Psikolog"
+msgstr "Congratulations Psychologist"
+
+#. Key:	9F7A406746936E28352AE9B238F80725
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_1.Text
+msgctxt ",9F7A406746936E28352AE9B238F80725"
+msgid "Bu kadar"
+msgstr "That's it"
+
+#. Key:	5FD2B8F14A72D9928A4A0F984EDE2A76
+#. SourceLocation:	/Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/WBP_GameOver.WBP_GameOver_C:WidgetTree.TextBlock_2.Text
+msgctxt ",5FD2B8F14A72D9928A4A0F984EDE2A76"
+msgid "Free=Özgür"
+msgstr "Free = Not Imprisoned"
+
+#. Key:	9A14B16749413956FBB798804A9A54F3
+#. SourceLocation:	/Game/UI/WBP_Jumpscare.WBP_Jumpscare_C:WidgetTree.TextBlock.Text
+#: /Game/UI/WBP_Jumpscare.WBP_Jumpscare_C:WidgetTree.TextBlock.Text
+msgctxt ",9A14B16749413956FBB798804A9A54F3"
+msgid "< Ana Menü"
+msgstr "< Mainmenu"
+
+#. Key:	DB7DF70C400857AB7CD26CB54DB92FE9
+#. SourceLocation:	/Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Credits.Text
+#: /Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Credits.Text
+msgctxt ",DB7DF70C400857AB7CD26CB54DB92FE9"
+msgid "Hazırlayanlar"
+msgstr "Credits"
+
+#. Key:	A2ED4D79401D881018E46BBE3FA81F5B
+#. SourceLocation:	/Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Learn.Text
+#: /Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Learn.Text
+msgctxt ",A2ED4D79401D881018E46BBE3FA81F5B"
+msgid "Öğretici"
+msgstr "Tutorial"
+
+#. Key:	172369504A1A39A847D54D8C7F69B87B
+#. SourceLocation:	/Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Play.Text
+#: /Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Play.Text
+msgctxt ",172369504A1A39A847D54D8C7F69B87B"
+msgid "OYNA"
+msgstr "PLAY"
+
+#. Key:	282657A24A550595C8172E800E72A091
+#. SourceLocation:	/Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Quit.Text
+#: /Game/UI/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Button_Quit.Text
+msgctxt ",282657A24A550595C8172E800E72A091"
+msgid "Çıkış"
+msgstr "Quit"
+
+#. Key:	E133EAFD499BC608882A049C72B02020
+#. SourceLocation:	/Game/UI/WBP_Switch.WBP_Switch_C:WidgetTree.Button_Mainmenu.Text
+#: /Game/UI/WBP_Switch.WBP_Switch_C:WidgetTree.Button_Mainmenu.Text
+msgctxt ",E133EAFD499BC608882A049C72B02020"
+msgid "< Ana Menü"
+msgstr "< Mainmenu"
+
+#. Key:	44E4940146E2753A708C3CA56E4F106F
+#. SourceLocation:	/Game/UI/WBP_Switch.WBP_Switch_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/WBP_Switch.WBP_Switch_C:WidgetTree.TextBlock_0.Text
+msgctxt ",44E4940146E2753A708C3CA56E4F106F"
+msgid "[E]"
+msgstr "[E]"
+
+#. Key:	6DD7238A46A8D8E583F334A42D4A8970
+#. SourceLocation:	/Game/UI/WBP_TextSelection.WBP_TextSelection_C:WidgetTree.TextBlock_Message.Text
+#: /Game/UI/WBP_TextSelection.WBP_TextSelection_C:WidgetTree.TextBlock_Message.Text
+msgctxt ",6DD7238A46A8D8E583F334A42D4A8970"
+msgid "Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text "
+msgstr "Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text Button Text "
+
+#. Key:	8EE79B5E4B0C9034AFB86CBA58CEDB47
+#. SourceLocation:	/Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.Button_Back.Text
+#: /Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.Button_Back.Text
+msgctxt ",8EE79B5E4B0C9034AFB86CBA58CEDB47"
+msgid "< Geri"
+msgstr "< Back"
+
+#. Key:	9AD7BDF341990AD545C793A6BACD9551
+#. SourceLocation:	/Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock.Text
+#: /Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock.Text
+msgctxt ",9AD7BDF341990AD545C793A6BACD9551"
+msgid "Selam Oyuncu!"
+msgstr "Hello Player!"
+
+#. Key:	10D2D6C6419838AE2CA432A23B9B33CD
+#. SourceLocation:	/Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_2.Text
+msgctxt ",10D2D6C6419838AE2CA432A23B9B33CD"
+msgid "Görevin:  Düşmanları doğru duyguya sürükleyerek tüm maskeleri elde etmek."
+msgstr "Your mission: Obtain all the masks by driving enemies to the right emotion."
+
+#. Key:	DB807A3A4ECAE371A929E9AF944ACC56
+#. SourceLocation:	/Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_3.Text
+msgctxt ",DB807A3A4ECAE371A929E9AF944ACC56"
+msgid "Karakterlerler doğru duyguya ulaşana kadar seni rahatsız etmeye devam edecek. "
+msgstr "Characters will continue to bother you until they reach the right emotion."
+
+#. Key:	13279B154C937CD00AD9208AFF804728
+#. SourceLocation:	/Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_32.Text
+#: /Game/UI/WBP_Tutorial.WBP_Tutorial_C:WidgetTree.TextBlock_32.Text
+msgctxt ",13279B154C937CD00AD9208AFF804728"
+msgid "Bol Şans."
+msgstr "Good Luck."
+
